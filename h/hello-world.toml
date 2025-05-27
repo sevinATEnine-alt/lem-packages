@@ -1,0 +1,14 @@
+[package]
+name = "hello-world"
+desc = "A package that prints \"Hello, World!\"."
+version = "1.0.0"
+required-tools = ["gcc"]
+required-packages = []
+
+[targets]
+
+# Source
+[targets.source]
+url = "https://drive.google.com/uc?export=download&id=12i3F8FaG3dX3KYyNOBbczbEgasyjWxPv&confirm=t"
+type = ["tar", "gz"]
+sha256 = "105240dd2becb9c8831f34bf737c818af23ff239b05856bdafee4cb59d2e5815"
