@@ -2,7 +2,7 @@
 name = "hello-world"
 desc = "A package that prints \"Hello, World!\"."
 version = "1.0.0"
-required-tools = ["gcc"]
+required-tools = ["gcc", "make"]
 required-packages = []
 
 [build]
